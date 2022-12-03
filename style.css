@@ -102,7 +102,7 @@ ul li a:hover{
     outline: none;
 }
 .contain {
-    width: 100%;
+    width: 70%;
     height: auto;
     margin: auto;
     color: aliceblue;
